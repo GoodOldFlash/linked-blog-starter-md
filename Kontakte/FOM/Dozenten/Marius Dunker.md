@@ -4,13 +4,13 @@ tags:
   - FOM
 ---
 Abschluss
-- #Dr
+- #Dipl-Inf
 
 Module
-- [[Change and Innovation]]
+- [[Management moderner Technologien]]
 
 Beziehungen
-- dummy
+- [[dummy]]
 ---
 
 ## Notizen

@@ -3,11 +3,10 @@ tags:
   - Modul
   - FOM
 ---
-#Semester2
+#Semester
 
 Dozent
-- [[Mohammed Fakraoui]]
-
+- dummy
 ---
 
 ## Notizen

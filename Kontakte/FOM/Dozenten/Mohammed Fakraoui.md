@@ -2,11 +2,19 @@
 tags:
   - Dozent
   - FOM
+  - Masterthesis
 ---
-Gute Verbindungen zu
-- [[Alexander Holland]]
+Abschluss
+- #MSc
 
 Module
-- [[Strategische Nutzung betrieblicher Informationssysteme]]
 - [[Management komplexer Anwendungsentwicklung]]
+- [[Strategische Nutzung betrieblicher Informationssysteme]]
 
+Beziehungen
+- [[Alexander Holland]]
+---
+
+## Notizen
+
+Potenzieller Zweitprüfer für Masterthesis

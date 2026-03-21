@@ -2,11 +2,19 @@
 tags:
   - Dozent
   - FOM
+  - Masterthesis
 ---
-Gute Verbindungen zu
-- [[Mohammed Fakraoui]]
-
-Bietet Masterthesis Betreuung an
+Abschluss
+- #Prof
+- #Dr
 
 Module
 - [[Forschungsmethodiken für MINT-Studiengänge]]
+
+Beziehungen
+- [[Mohammed Fakraoui]]
+---
+
+## Notizen
+
+Potenzieller Erstprüfer für Masterthesis
