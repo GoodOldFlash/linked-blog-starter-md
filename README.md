@@ -5,3 +5,5 @@ testtest
 123456
 
 neue Änderung
+
+Test des Auto-Commits
