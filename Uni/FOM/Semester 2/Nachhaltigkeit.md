@@ -3,10 +3,10 @@ tags:
   - Modul
   - FOM
 ---
-#Semester
+#Semester2
 
 Dozent
-- dummy
+- [[Peter Kinne]]
 ---
 
 ## Notizen

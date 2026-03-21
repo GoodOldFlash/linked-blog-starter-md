@@ -7,7 +7,7 @@ Abschluss
 - #Dr
 
 Module
-- [[Change and Innovation]]
+- [[Nachhaltigkeit]]
 
 Beziehungen
 - [[dummy]]

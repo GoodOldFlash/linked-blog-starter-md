@@ -4,10 +4,10 @@ tags:
   - FOM
 ---
 Abschluss
-- #Dr
+- #MSc 
 
 Module
-- [[Change and Innovation]]
+- [[IT-Projekt-, Program- und Portfoliomanagement]]
 
 Beziehungen
 - [[dummy]]

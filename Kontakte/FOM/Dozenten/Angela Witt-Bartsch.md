@@ -4,10 +4,11 @@ tags:
   - FOM
 ---
 Abschluss
-- #Dr
+- #Prof 
+- #Dr 
 
 Module
-- [[Change and Innovation]]
+- [[Agile Organisation und Führung]]
 
 Beziehungen
 - [[dummy]]
