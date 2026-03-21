@@ -8,3 +8,5 @@ Gute Verbindungen zu
 
 Bietet Masterthesis Betreuung an
 
+Module
+- [[Forschungsmethodiken für MINT-Studiengänge]]
