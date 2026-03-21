@@ -2,18 +2,18 @@
 tags:
   - Freunde
 ---
-Geburtstag: 2003-05-13
+Geburtstag: 2002-12-10
 
 Adresse: Hannover
 
 Partner:
-- [[Lena Eismann]]
+- [[Hannes Herrm Stapelberg]]
 
 Kinder:
 - [[dummy]]
 
 Studium: 
-- Bachlore Angewandte Informatik
+- Bachelor Medizin
 
 ---
 
