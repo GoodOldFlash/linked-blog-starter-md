@@ -12,6 +12,7 @@ Partner:
 
 Kinder:
 - [[Nele Aundrup]]
+- [[Julia Tatli]]
 
 ---
 

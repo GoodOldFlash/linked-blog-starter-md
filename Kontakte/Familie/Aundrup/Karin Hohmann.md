@@ -14,7 +14,7 @@ Kinder:
 - [[Christine Hohmann]]
 - [[Matthias Hohmann]]
 - [[Alexander Hohmann]]
-- [[Karin Hohmann]]
+- [[Katrin Hohmann]]
 
 ---
 
