@@ -1,11 +1,10 @@
 ---
 tags:
   - Familie/Aundrup
-  - Kik
 ---
-Geburtstag: 1968-01-08
+Geburtstag: 1965-12-02
 
-Adresse: Westerfeld 5, 59399 Olfen
+Adresse: dummy
 
 Partner:
 - [[dummy]]
