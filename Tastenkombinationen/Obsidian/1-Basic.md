@@ -71,7 +71,7 @@ Bild von Extern
 1. Das
 	- Ist
 2. Eine
-	[ ] Gemischte
+	 - [ ] Gemischte
 	- Liste
 
 ---
