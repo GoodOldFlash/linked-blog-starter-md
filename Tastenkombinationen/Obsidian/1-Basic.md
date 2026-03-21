@@ -28,6 +28,8 @@
 
 [[Link auf andere Notiz]]
 
+[[Link auf andere Notiz|Alias für Link]]
+
 [Interner Link](obsidian://open?vault=On%20my%20Mind&file=remote-blog%2FTastenkombinationen%2Fattachments%2FLink%20auf%20andere%20Notiz)
 
 [Externer Link](https://obsidian.md/help/syntax)
