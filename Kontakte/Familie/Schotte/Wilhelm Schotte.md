@@ -1,8 +1,8 @@
 ---
 tags:
-  - Familie
+  - Familie/Schotte
 ---
-Geburtstag: 1900-01-01
+Geburtstag: 1943-03-14
 
 Adresse: dummy
 

@@ -7,11 +7,10 @@ Geburtstag: 1900-01-01
 Adresse: Dülmen
 
 Partner:
-- [[Petra Kunze]]
+- [[Nadine Kunze]]
 
 Kinder:
-- [[Michael Kunze]]
-- [[Markus Kunze]]
+- [[dummy]]
 
 ---
 
