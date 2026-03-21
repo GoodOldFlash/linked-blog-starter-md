@@ -4,7 +4,7 @@ tags:
 ---
 Geburtstag: 1900-01-01
 
-Adresse: dummy
+Adresse: Himmel
 
 Partner:
 - [[Wilhelm Schotte]]

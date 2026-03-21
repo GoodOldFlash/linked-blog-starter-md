@@ -2,16 +2,15 @@
 tags:
   - Familie/Schotte
 ---
-Geburtstag: 1900-01-01
+Geburtstag: 2022-08-13
 
 Adresse: Irisweg 3, 48249 Dülmen
 
 Partner:
-- [[Eva-Marie Schotte]]
+- [[dummy]]
 
 Kinder:
-- [[Mats Schotte]]
-- [[Lina Schotte]]
+- [[dummy]]
 
 ---
 

@@ -7,7 +7,7 @@ Geburtstag: 1900-01-01
 Adresse: Irisweg 3, 48249 Dülmen
 
 Partner:
-- [[Eva-Marie Schotte]]
+- [[Andre Schotte]]
 
 Kinder:
 - [[Mats Schotte]]
