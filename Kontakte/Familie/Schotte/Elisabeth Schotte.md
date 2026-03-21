@@ -2,12 +2,12 @@
 tags:
   - Familie/Schotte
 ---
-Geburtstag: 1943-03-14
+Geburtstag: 1900-01-01
 
-Adresse: Friedrich-Ruin-Straße 11, 48249 Dülmen
+Adresse: dummy
 
 Partner:
-- [[Elisabeth Schotte]]
+- [[Wilhelm Schotte]]
 
 Kinder:
 - [[Simone Kunze]]
