@@ -6,7 +6,7 @@ tags:
 #Semester1
 
 Dozent
-- dummy
+- [[Marius Dunker]]
 ---
 
 ## Notizen
