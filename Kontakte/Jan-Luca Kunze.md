@@ -11,6 +11,10 @@ Adresse: Frankfurter Straße 30, 44143 Dortmund Körne
 Kinder:
 - [[dummy]]
 
+Studium:
+- Bachelor of Science IT- und Softwaresysteme
+- Master of Science IT-Management
+
 ---
 
 ## Notizen
